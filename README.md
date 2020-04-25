@@ -1,2 +1,2 @@
 # Morpion
-#Project of THP, Tic-Tac-Toe game
+Project of THP, Tic-Tac-Toe game
